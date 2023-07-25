@@ -4,4 +4,7 @@ Códigos produzidos em JavaScript na trilha de cursos de Introdução ao Front E
 ## Tela de Desenho - 19/07/23
 Cria uma tela que ao pressionar o mouse é possível desenhar e escrever. [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/reSqjamo_)
 
+## Bandeira da Itália - 19/07/23
+Cria a bandeira da Itália. [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/9ASvFBM9-)
+
 ## Em Atualização
