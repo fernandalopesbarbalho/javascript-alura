@@ -15,4 +15,8 @@ Quadrado verde no canto inferior direito é mostrado caso o mouse não estiver p
 Um circulo muda sua direção percorrendo outro caminho quando o mouse se aproxima e a cada click muda de cor e transparência.
 [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/sji54IdGG)
 
+## Sol se Pondo - 19/07/23
+O desenho de um sol se pondo em uma praia.
+[Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/SWXQ7PFIB)
+
 ## Em Atualização
