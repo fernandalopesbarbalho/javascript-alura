@@ -19,4 +19,7 @@ Um circulo muda sua direção percorrendo outro caminho quando o mouse se aproxi
 O desenho de um sol se pondo em uma praia.
 [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/SWXQ7PFIB)
 
+## Círculos - 19/07/23
+Três círculos percorrem a tela em direções aleatórias e mudam de cor e transparência a cada click. [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/jHYunC7-T)
+
 ## Em Atualização
