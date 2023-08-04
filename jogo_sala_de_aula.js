@@ -1,4 +1,4 @@
-//Jogo onde o professor não pode ver os alunos bagunçando.
+//Jogo onde o professor não pode ver os alunos bagunçando (acionado pelo click do mouse).
 
 let costas1, costas2;
 let quieto, farra1, farra2;
