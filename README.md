@@ -26,4 +26,7 @@ Três círculos percorrem a tela em direções aleatórias e mudam de cor e tran
 ### Poesia - 03/08/23
 Ao passar o cursor na tela, uma frase aparece e forma uma poesia em movimento. [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/Sq-DkSHAg).
 
+### Jogo Sala de Aula - 03/08/23
+Jogo onde o professor não pode ver os alunos bagunçando. [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/pedp57Jy4)
+
 ## Em Atualização
