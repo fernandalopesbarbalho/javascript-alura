@@ -29,4 +29,4 @@ Ao passar o cursor na tela, uma frase aparece e forma uma poesia em movimento. [
 ### Jogo Sala de Aula - 03/08/23
 Jogo onde o professor não pode ver os alunos bagunçando (acionado pelo click do mouse). [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/pedp57Jy4)
 
-## Em Atualização
+## Ainda em Atualização
