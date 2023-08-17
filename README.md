@@ -1,5 +1,5 @@
 ## Introdução ao JavaScript
-Códigos produzidos em JavaScript no curso Introdução ao JavaScript: programação criativa da Alura.
+Códigos produzidos no curso Introdução ao JavaScript: programação criativa da Alura.
 
 ### Tela de Desenho - 19/07/23
 Cria uma tela que ao pressionar o mouse é possível desenhar e escrever. [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/reSqjamo_)
