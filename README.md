@@ -22,8 +22,8 @@ O desenho de um sol se pondo em uma praia.
 ## [Círculos](https://github.com/fernandalopesbarbalho/javascript-alura/blob/main/circulos.js) - 19/07/23
 Três círculos percorrem a tela em direções aleatórias e mudam de cor e transparência a cada click. [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/jHYunC7-T)
 
-### [Poesia](https://github.com/fernandalopesbarbalho/javascript-alura/blob/main/poesia.js) - 03/08/23
+## [Poesia](https://github.com/fernandalopesbarbalho/javascript-alura/blob/main/poesia.js) - 03/08/23
 Ao passar o cursor na tela, uma frase aparece e forma uma poesia em movimento. [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/Sq-DkSHAg)
 
-### [Jogo Sala de Aula](https://github.com/fernandalopesbarbalho/javascript-alura/blob/main/jogo_sala_de_aula.js) - 03/08/23
+## [Jogo Sala de Aula](https://github.com/fernandalopesbarbalho/javascript-alura/blob/main/jogo_sala_de_aula.js) - 03/08/23
 Jogo onde o professor não pode ver os alunos bagunçando (acionado pelo click do mouse). [Testar no P5.JS](https://editor.p5js.org/fl.barbalho/full/pedp57Jy4)
